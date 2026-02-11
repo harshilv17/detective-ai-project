@@ -1,0 +1,79 @@
+SIGNAL ANALYSIS REPORT
+Case Reference: MC-2024-0312 ("The Midnight Signal")
+Prepared by: Electromagnetic Spectrum Analysis Lab, State Forensic Sciences Directorate
+Lead Analyst: Dr. Arvind Kulkarni, Ph.D. Electrical Engineering
+Date of Report: March 22, 2024
+
+---
+
+1. BACKGROUND
+
+On March 13, 2024, investigating officers recovered a disassembled electronic device from the second-floor monitoring room of the decommissioned Central Telephone Exchange building (Plot #44, MG Road). The device was submitted to this laboratory for analysis. Additionally, spectrum monitoring data from the regional radio frequency (RF) monitoring station (Station ID: RFMS-BLR-04, located 2.3 km from the exchange building) was reviewed for anomalies on the night of March 12–13, 2024.
+
+2. DEVICE ANALYSIS
+
+2.1 The submitted device consists of the following components:
+    - A software-defined radio (SDR) transceiver module (RTL-SDR v3 variant, modified)
+    - A custom-fabricated PCB with signal amplification circuitry
+    - A directional Yagi antenna (5-element, tuned for UHF band)
+    - A Raspberry Pi 4 single-board computer with a 32GB microSD card
+    - Interconnecting cables and a 12V DC power adapter (compatible with the Honda EU2200i generator recovered at the scene)
+
+2.2 The microSD card contained a Linux-based operating system with GNU Radio software installed. Analysis of log files indicates the device was operational between approximately 23:40 and 00:08 on the night of March 12–13, a duration of approximately 28 minutes.
+
+2.3 The GNU Radio flow graph configuration recovered from the device indicates it was set to transmit on a narrow frequency band centered at 437.5 MHz, with a bandwidth of approximately 12.5 kHz. This falls within the UHF amateur radio band (70 cm band, 430–440 MHz).
+
+3. SPECTRUM MONITORING DATA
+
+3.1 RFMS-BLR-04 recorded an anomalous transmission on 437.5 MHz beginning at 23:41 and ending at 00:07 on March 12–13. This aligns with the device log timestamps to within ±1 minute.
+
+3.2 The signal exhibited the following characteristics:
+    - Center frequency: 437.5 MHz
+    - Bandwidth: ~12.5 kHz
+    - Modulation: Frequency-shift keying (FSK), 2-level (binary)
+    - Data rate: Approximately 9600 baud
+    - Signal strength at monitoring station: -68 dBm (moderate, consistent with low-power transmission over 2.3 km)
+    - Duration: ~26 minutes of intermittent transmission (not continuous; bursts of 15–45 seconds separated by 30–90 second intervals)
+
+3.3 The transmission pattern — short bursts with irregular spacing — is consistent with a data upload or beacon protocol rather than voice communication or continuous data streaming.
+
+4. SIGNAL CONTENT
+
+4.1 The FSK-modulated signal was successfully demodulated. The resulting data stream is encrypted. Preliminary analysis indicates the encryption is consistent with AES-256 or a comparable symmetric cipher. Without the encryption key, the content of the transmission cannot be determined.
+
+4.2 Total data volume transmitted: approximately 4.7 megabytes.
+
+5. POSSIBLE ORIGIN HYPOTHESES
+
+The following hypotheses regarding the purpose of the transmission are presented. All are considered INCONCLUSIVE at this stage.
+
+5.1 Hypothesis A — Unauthorized Amateur Radio Activity:
+    The frequency falls within the amateur radio band. However, the use of encryption is prohibited under amateur radio regulations in India (and most jurisdictions). The clandestine nature of the operation (abandoned building, generator power, night-time) is inconsistent with legitimate amateur activity.
+    Assessment: UNLIKELY for legitimate use; POSSIBLE for unauthorized exploitation of amateur spectrum.
+
+5.2 Hypothesis B — Covert Data Exfiltration:
+    The burst-transmission pattern, encryption, and small data volume are consistent with covert upload of sensitive data to a nearby receiver (e.g., a vehicle-mounted or drone-mounted receiver within line of sight).
+    Assessment: PLAUSIBLE. The presence of stripped copper wire and the building's former telecommunications function may be relevant, but a direct link has not been established.
+
+5.3 Hypothesis C — Signal Relay or Repeater Test:
+    The device may have been used to test a relay configuration, bouncing a signal through or from the exchange building's infrastructure (which may retain legacy antenna mounts on the roof).
+    Assessment: POSSIBLE but UNSUPPORTED by current evidence. No secondary relay device was recovered.
+
+5.4 Hypothesis D — Interference or Jamming Test:
+    The low power and narrow bandwidth argue against a jamming purpose, which typically requires broadband high-power transmission.
+    Assessment: UNLIKELY.
+
+6. BLUE LIGHT OBSERVATION
+
+6.1 Investigating officers noted that a witness reported observing a flickering blue light from the second-floor window of the exchange building during the time window of the transmission. The recovered SDR device includes two blue indicator LEDs on the amplification PCB that flash during active transmission. Given the partially open window shutters and the dark environment, these LEDs would be visible from street level.
+
+6.2 The intermittent flashing pattern described by the witness (one flash every 2–3 seconds) is broadly consistent with the burst-transmission intervals recorded in the device logs, though an exact correlation cannot be confirmed without synchronized timestamps.
+
+7. CONCLUSIONS
+
+An unauthorized radio transmission on 437.5 MHz was conducted from the exchange building on the night of March 12–13, 2024, using a purpose-built SDR device. The transmission lasted approximately 26 minutes and carried approximately 4.7 MB of encrypted data in a burst pattern. The purpose and recipient of the transmission remain undetermined. Further investigation — including analysis of the Raspberry Pi's file system, identification of the encryption key, and RF direction-finding to locate a potential receiver — is recommended.
+
+— End of Report —
+Dr. Arvind Kulkarni
+Electromagnetic Spectrum Analysis Lab
+State Forensic Sciences Directorate

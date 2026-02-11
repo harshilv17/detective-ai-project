@@ -1,0 +1,56 @@
+FORENSIC ANALYSIS REPORT
+Case Reference: MC-2024-0312 ("The Midnight Signal")
+Prepared by: Forensic Unit, Central Division
+Lead Analyst: Dr. Priya Venkatesh, M.Sc. Forensic Science
+Date of Report: March 18, 2024
+
+---
+
+1. SCENE OVERVIEW
+
+The scene examined is the narrow service lane running between the decommissioned Central Telephone Exchange building (Plot #44, MG Road) and the Greenline Warehouse (Plot #45). The lane is approximately 3.8 meters wide and 26 meters long, with an asphalt surface in moderate disrepair. The lane connects the rear compound (accessible from 5th Cross) to MG Road at the front.
+
+2. TIRE MARK ANALYSIS
+
+2.1 Two sets of tire impressions were recovered from the lane surface.
+
+2.2 Set A (Primary): Found near the midpoint of the lane, consistent with a vehicle that was stationary for a prolonged period. The impressions show no lateral distortion, indicating the vehicle was parked straight and not turned. Tread pattern analysis matches a 205/55 R16 radial tire, commonly fitted on midsized sedans manufactured between 2018 and 2023. The tread depth suggests moderate wear — estimated 25,000 to 40,000 kilometers of use.
+
+2.3 Set B (Exit): A continuous single-direction track leading from the midpoint toward the MG Road exit (south-southwest). The track is remarkably straight with minimal steering correction, and the impression depth is shallow, consistent with a vehicle traveling at very low speed (estimated 5–10 km/h). There are no braking marks along the exit path.
+
+2.4 No tire marks were found near the rear (5th Cross) exit of the lane, suggesting the vehicle entered and exited via MG Road only. However, partial erosion of the asphalt near the rear exit makes this inconclusive.
+
+3. PAINT RESIDUE ANALYSIS
+
+3.1 A paint transfer mark was found on the metal bollard at the MG Road entrance of the lane, at a height of 58 cm from ground level, consistent with a vehicle's front bumper.
+
+3.2 Spectral analysis identifies the paint as a two-layer system:
+    - Base coat: Metallic dark navy blue (Pantone 296 C equivalent)
+    - Clear coat: Standard automotive polyurethane
+
+3.3 The paint composition is consistent with OEM finishes used by multiple manufacturers (Maruti Suzuki, Hyundai, Tata Motors) in the 2019–2022 production window. A specific manufacturer match cannot be determined without a suspect vehicle for comparison.
+
+4. DIRECTION OF MOVEMENT
+
+4.1 Based on tire impression geometry, paint transfer height and angle on the bollard, and debris displacement patterns, the vehicle is assessed to have:
+    - Entered the lane from MG Road (heading north-northeast)
+    - Parked at the midpoint for an indeterminate period
+    - Exited the lane onto MG Road (heading south-southwest)
+
+4.2 The turning radius at the MG Road exit is consistent with a single continuous maneuver — no multi-point turn was performed.
+
+5. ADDITIONAL FINDINGS
+
+5.1 A small quantity of fine copper wire fragments (total mass: 0.3g) was recovered from the asphalt surface near the midpoint parking position. The fragments are consistent with stripped telecommunications-grade copper wiring.
+
+5.2 No biological evidence (blood, hair, fibers) was recovered from the lane surface.
+
+5.3 No footprint impressions were recoverable due to the hard asphalt surface.
+
+6. CONCLUSIONS
+
+The physical evidence indicates a single midsized sedan, dark navy blue in color, entered the service lane from MG Road, remained stationary at the midpoint, and subsequently departed via MG Road at low speed. The paint transfer on the entry bollard suggests the vehicle made light contact during entry, possibly due to operating without headlights in low-visibility conditions. The presence of copper wire fragments near the parking position is noted but cannot be conclusively linked to the vehicle without further investigation.
+
+— End of Report —
+Dr. Priya Venkatesh
+Forensic Unit, Central Division

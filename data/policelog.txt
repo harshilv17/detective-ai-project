@@ -1,0 +1,62 @@
+POLICE RADIO LOG — INCIDENT MC-2024-0312
+Station: MG Road Division, Central Precinct
+Date: March 12–13, 2024
+Compiled by: Communications Desk (Opr. ID: COMM-09)
+
+---
+
+• 23:38 — Dispatch receives automated alarm trigger from Central Telephone Exchange building (Plot #44, MG Road). Alarm type: perimeter breach, ground-floor east window sensor. Unit Patrol-7 assigned.
+
+• 23:42 — Patrol-7 (Constables Iyer & Fernandes) en route. ETA 8 minutes.
+
+• 23:47 — Dispatch note: Exchange building has been decommissioned since 2019. Last known security inspection by BSNL maintenance: November 2023. Building is supposed to be sealed.
+
+• 23:50 — Patrol-7 reports arrival at MG Road entrance. Building exterior appears intact. No signs of forced entry visible from the front. Officers begin perimeter check.
+
+• 23:53 — Patrol-7 reports the service lane on the east side is accessible. No gate or barrier. Lane is dark — no functional lighting.
+
+*** INITIAL ASSESSMENT (23:55): Patrol-7 radios preliminary assessment — likely a false alarm triggered by animal activity or sensor malfunction. Building appears undisturbed. Officers request permission to stand down. ***
+
+• 23:58 — Dispatch instructs Patrol-7 to complete full perimeter check before standing down. Noted: multiple alarm triggers from this building in past 6 months — all previously classified as false alarms.
+
+• 00:02 — Patrol-7 reaches rear compound via 5th Cross entrance. Reports the rear service door (ground floor) is closed but UNLOCKED. This contradicts the earlier "undisturbed" assessment. Officers advise caution, request backup.
+
+• 00:04 — Dispatch assigns Unit Patrol-12 as backup. ETA 12 minutes.
+
+• 00:06 — Patrol-7 elects to wait for backup before entering. Officers hold position at rear door.
+
+• 00:09 — Patrol-7 reports hearing a vehicle engine from the direction of the service lane (MG Road side). Sound is brief, fading. Officers cannot visually confirm — the lane is not visible from the rear compound.
+
+• 00:11 — Patrol-7 notes that the rear door, while unlocked, shows no visible damage to the lock or frame. Possible key access or lock was left disengaged.
+
+• 00:16 — Patrol-12 arrives. Four officers now on scene.
+
+• 00:19 — Officers enter building via rear door. Ground floor: large open hall, formerly the main switching room. Room is empty of functional equipment. Significant dust accumulation. Officers note footprints in the dust — multiple tracks, relatively fresh.
+
+• 00:23 — Officers proceed to second floor via internal staircase. Second floor contains smaller rooms — former offices and a technical monitoring room. In the monitoring room, officers discover:
+  - A portable power unit (small generator, Honda EU2200i, serial number recorded)
+  - Two coils of copper wire (partially stripped)
+  - A disassembled electronic device of unknown purpose
+  - Fresh scuff marks on the floor
+
+• 00:25 — Dispatch upgraded to Priority-2 investigation. Detective unit requested.
+
+• 00:31 — Crime Scene Unit notified. ETA 45 minutes. Officers instructed to secure the scene and avoid disturbing evidence.
+
+• 00:34 — Patrol-7 notes that the second-floor monitoring room has a large window facing MG Road. Window is intact but the internal shutters are partially open. This window would be visible from the street below.
+
+• 00:40 — Det. Srinivas Rao (lead investigator) contacted and briefed. Will attend scene at 01:30.
+
+• 00:58 — CSU arrives. Scene documentation begins.
+
+*** CORRECTION (01:15): The initial assessment at 23:55 that the alarm was a false alarm is formally retracted. Evidence of unauthorized access and activity confirmed. Building was accessed by unknown person(s) and items were brought in. Investigation reclassified. ***
+
+• 01:32 — Det. Rao arrives on scene. Assumes command of the investigation.
+
+• 02:10 — Preliminary CSU report: footprint analysis suggests 2–3 individuals. Generator fuel tank is nearly empty — device was run for an extended period. The electronic device components are bagged for lab analysis.
+
+• 02:45 — Det. Rao orders canvass of surrounding businesses and residences for witnesses and CCTV footage.
+
+• 03:00 — Log closed for shift. Investigation continues under Case Ref MC-2024-0312.
+
+--- END OF LOG ---
